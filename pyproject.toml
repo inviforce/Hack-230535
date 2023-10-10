@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "attempt01"
-version = "23"
-description = "this is a trial"
-authors = ["Deepak Saraswat 2023ucs0089"]
-license = "n"
+name = "uagents"
+version = "0.6.2"
+description = "Framework for temperature alert program"
+authors = ["Deepak Saraswat <inviforce> <2023ucs0089@iitjammu.ac.in> Raja Rajat Bhardwaj <Rajabhardwaj 127> <2023ucs0064@iitjammu.ac.in>"]
+license = "Apache 2.0"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.8,<3.12"
 
 
 [build-system]
